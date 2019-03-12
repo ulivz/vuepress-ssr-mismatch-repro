@@ -16,7 +16,7 @@ For more details of this issue, please head [vuepress/issues/1382](https://githu
 
 ## How to fix it?
 
-For now you can use the `vuepress-plugin-ssr-mismatch-workaround` created by VuePress's collabrator @shigma:
+For now you can use the [vuepress-plugin-ssr-mismatch-workaround](https://github.com/Shigma/vuepress-plugin-ssr-mismatch-workaround) created by VuePress's collabrator [@Shigma](https://github.com/Shigma):
 
 ```bash
 yarn add vuepress-plugin-ssr-mismatch-workaround -D
@@ -31,7 +31,7 @@ module.exports = {
 }
 ```
 
-We've prepared a example at this repo, you can test it with running `yarn serve:after` and repeat above steps, you'll find that the page works well.
+We've prepared a example at this repo, you can test it with running `yarn serve:after` and repeating above steps, you'll find that the page works well.
 
 
 
