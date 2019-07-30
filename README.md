@@ -1,5 +1,7 @@
 # vuepress-ssr-mismatch-repro 
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ulivz/vuepress-ssr-mismatch-repro.svg)](https://greenkeeper.io/)
+
 > Reproduction of https://github.com/vuejs/vuepress/issues/1382
 
 ## Step to reproduce
